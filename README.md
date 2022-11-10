@@ -1,2 +1,2 @@
 # NNEAE
-The detailed data informtion and experiments of NNEaE
+The detailed data informtion and experiments of NNEAE
